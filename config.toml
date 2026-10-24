@@ -1,0 +1,2 @@
+[functions.webpay-return]
+verify_jwt = false
